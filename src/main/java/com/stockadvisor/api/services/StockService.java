@@ -1,6 +1,5 @@
 package com.stockadvisor.api.services;
 
-import com.stockadvisor.api.client.StockApiClient;
 import com.stockadvisor.api.model.StockData;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
